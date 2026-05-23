@@ -30,8 +30,8 @@ modo oscuro nativo.
 ## Progreso del Proyecto
 
 - [x] Módulo 0: Inicialización del proyecto
-- [ ] Módulo 1: Configuración Inicial e Interfaz Base (CustomTkinter)
-- [ ] Módulo 2: Conexión y Autenticación con la API de Steam
+- [x] Módulo 1: Configuración Inicial e Interfaz Base (CustomTkinter)
+- [x] Módulo 2: Conexión y Autenticación con la API de Steam
 - [ ] Módulo 3: Integración de Datos de Duración (HowLongToBeat)
-- [ ] Módulo 4: Sistema de Filtros y Ordenamiento
+- [x] Módulo 4: Sistema de Filtros y Ordenamiento
 - [ ] Módulo 5: Pruebas Unitarias y Optimización
