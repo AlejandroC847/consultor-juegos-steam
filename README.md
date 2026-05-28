@@ -1,12 +1,12 @@
 # Consultor de Juegos
 
-Una aplicación de escritorio para gestionar, analizar y organizar tu biblioteca
-de Steam, enriquecida con datos de tiempo de juego reales.
+Una aplicación de escritorio para gestionar, analizar y organizar tus bibliotecas
+de juegos, enriquecida con datos de tiempo de juego reales.
 
 ## Objetivo
 
-Ofrecer una interfaz visual e intuitiva para que el usuario explore sus juegos
-de Steam, permitiendo ordenamientos avanzados por logros, orden alfabético y
+Ofrecer una interfaz visual e intuitiva para que el usuario explore sus juegos,
+permitiendo ordenamientos avanzados por logros, orden alfabético y
 duración estimada de juego.
 
 ## Características Principales
@@ -25,13 +25,14 @@ modo oscuro nativo.
 - Python 3.12+
 - CustomTkinter (UI)
 - Requests / Steam Web API
-- BeautifulSoup4 / API (para datos de duración)
+- howlongtobeatpy / HowLongToBeat API
 
 ## Progreso del Proyecto
 
 - [x] Módulo 0: Inicialización del proyecto
 - [x] Módulo 1: Configuración Inicial e Interfaz Base (CustomTkinter)
 - [x] Módulo 2: Conexión y Autenticación con la API de Steam
-- [ ] Módulo 3: Integración de Datos de Duración (HowLongToBeat)
+- [x] Módulo 3: Integración de Datos de Duración (HowLongToBeat)
 - [x] Módulo 4: Sistema de Filtros y Ordenamiento
 - [ ] Módulo 5: Pruebas Unitarias y Optimización
+- [ ] Módulo 6: Integración con otras plataformas

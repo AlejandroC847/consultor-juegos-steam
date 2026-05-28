@@ -1,6 +1,29 @@
-__pycache__/
-*.pyc
+# ==========================================
+# CONFIGURACIÓN DE GITIGNORE - CONSULTOR APP
+# ==========================================
+
+# Entornos virtuales de desarrollo (No subir librerías descargadas)
+.venv/
+venv/
+ENV/
+
+# Archivos privados de configuración y seguridad
 .env
+
+# Archivos de caché generados automáticamente por Python
+**/__pycache__/
+*.py[cod]
+*$py.class
+
+# Datos locales generados por la aplicación
+data/
+
+# Carpetas del sistema operativo o editores de código
 .vscode/
+.idea/
+.DS_Store
+Thumbs.db
 .markdownlint.json
+
+# Archivo local de pruebas
 temp.py
